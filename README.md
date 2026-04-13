@@ -70,7 +70,7 @@ The Streamlit application includes:
 The model can be improved in several ways in future work. First, hyperparameter tuning can be applied to improve Random Forest performance. Second, feature selection can help identify the most important variables and reduce unnecessary features. Third, more advanced models such as XGBoost can be tested and compared. Finally, the Streamlit application can be improved by allowing manual user input instead of selecting only existing booking records.
 
 <h2>Streamlit2 Application</h2>
-<p>The following figure shows the performance comparison of the four machine learning models.</p>
+<p>The following figure shows the final Streamlit application 2 interface.</p>
 <img src="images/streamlit2_app.jpg" width="700">
 
 <h2>Confusion Matrix</h2>
