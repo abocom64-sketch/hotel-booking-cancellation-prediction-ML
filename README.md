@@ -65,8 +65,23 @@ The Streamlit application includes:
 - Display of the selected booking data
 - Prediction of booking cancellation status
 - Probability of canceled and not canceled outcomes
-## Acknowledgement
+- 
+## Future Improvements
+The model can be improved in several ways in future work. First, hyperparameter tuning can be applied to improve Random Forest performance. Second, feature selection can help identify the most important variables and reduce unnecessary features. Third, more advanced models such as XGBoost can be tested and compared. Finally, the Streamlit application can be improved by allowing manual user input instead of selecting only existing booking records.
 
+<h2>Streamlit2 Application</h2>
+<p>The following figure shows the performance comparison of the four machine learning models.</p>
+<img src="images/streamlit2_app.jpg" width="700">
+
+<h2>Confusion Matrix</h2>
+<p>The following figure shows the confusion matrix of the selected Random Forest model.</p>
+<img src="images/confusion_matrix.jpg" width="500">
+
+<h2>Streamlit Application</h2>
+<p>The following figure shows the final Streamlit application interface.</p>
+<img src="images/streamlit_app.jpg" width="700">
+
+ ## Acknowledgement
 I would like to thank our lecturer for the guidance and support throughout this project. I also appreciate the effort and cooperation of all group members in completing this work successfully.
 
 ## Project Structure
