@@ -65,6 +65,9 @@ The Streamlit application includes:
 - Display of the selected booking data
 - Prediction of booking cancellation status
 - Probability of canceled and not canceled outcomes
+## Acknowledgement
+
+I would like to thank our lecturer for the guidance and support throughout this project. I also appreciate the effort and cooperation of all group members in completing this work successfully.
 
 ## Project Structure
 ```bash
@@ -78,7 +81,10 @@ finalproject/
 ├── X_test.csv
 ├── y_train.csv
 ├── y_test.csv
-│
+├── images/
+│  ├── streamlit2_app.jpg
+│  ├── confusion_matrix.jpg
+│  ├── streamlit_app.jpg
 ├── notebooks/
 │   ├── 1_data_preprocessing.ipynb
 │   ├── 2_model_development.ipynb
